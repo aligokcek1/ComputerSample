@@ -14,6 +14,7 @@ opcode, r1, r2, r3 are 3-bit variables. So, the system can have 8 different oper
 5: memory[r3] = memory[r1] (left shift) memory[r2] <br />
 6: memory[r3] = memory[r1] (left shift) instruction[5:3] <br />
 7: memory[r3] = memory[r1] (addition) memory[r2] <br />
+<br />
 You can use the testbench i provided
 
 
